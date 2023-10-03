@@ -1,0 +1,176 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "QBase",
+					"jsonFile" : "directory-QBase-Debug-f5ccc0ac60314e71f6ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "QBase",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "QedisCore",
+					"jsonFile" : "directory-QedisCore-Debug-fd1273216ac9df39493b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "QedisCore",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "QedisSvr",
+					"jsonFile" : "directory-QedisSvr-Debug-439caa0622018f405c6d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "QedisSvr",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "courses/lab2/code1",
+					"jsonFile" : "directory-courses.lab2.code1-Debug-1c9e79459e53a6b12120.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "courses/lab2/code1",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "courses/lab2/code2",
+					"jsonFile" : "directory-courses.lab2.code2-Debug-ead34e6b8cde0e9f250b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "courses/lab2/code2",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "QEDIS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "qbaselib::@b4395f77c7109d3f8d6a",
+					"jsonFile" : "target-qbaselib-Debug-18bca69614ae34ef1ab1.json",
+					"name" : "qbaselib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "qedis_server::@9211656d671cdd7f83e1",
+					"jsonFile" : "target-qedis_server-Debug-59e34239bb45e63a1b08.json",
+					"name" : "qedis_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qediscore::@f7cdbf30b20a7217cb95",
+					"jsonFile" : "target-qediscore-Debug-02be848539cc8809939b.json",
+					"name" : "qediscore",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "server1::@2d9d74a04b8539737fd4",
+					"jsonFile" : "target-server1-Debug-036507c9887e6ad24498.json",
+					"name" : "server1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "server2::@81aca3ae029e83d7a573",
+					"jsonFile" : "target-server2-Debug-ada2a37a91f36230314a.json",
+					"name" : "server2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zihao/qedis/Qedis/build",
+		"source" : "/home/zihao/qedis/Qedis"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

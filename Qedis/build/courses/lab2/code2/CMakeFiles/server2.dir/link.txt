@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wall -std=c++0x -rdynamic CMakeFiles/server2.dir/EchoSocket.cc.o CMakeFiles/server2.dir/Server2.cc.o -o ../../../../courses/lab2/code2/server2  ../../../../bin/libqbaselib.a -lpthread 

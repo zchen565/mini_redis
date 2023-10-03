@@ -1,0 +1,17 @@
+/home/zihao/qedis/Qedis/build/CMakeFiles/edit_cache.dir
+/home/zihao/qedis/Qedis/build/CMakeFiles/rebuild_cache.dir
+/home/zihao/qedis/Qedis/build/QBase/CMakeFiles/qbaselib.dir
+/home/zihao/qedis/Qedis/build/QBase/CMakeFiles/edit_cache.dir
+/home/zihao/qedis/Qedis/build/QBase/CMakeFiles/rebuild_cache.dir
+/home/zihao/qedis/Qedis/build/QedisCore/CMakeFiles/qediscore.dir
+/home/zihao/qedis/Qedis/build/QedisCore/CMakeFiles/edit_cache.dir
+/home/zihao/qedis/Qedis/build/QedisCore/CMakeFiles/rebuild_cache.dir
+/home/zihao/qedis/Qedis/build/QedisSvr/CMakeFiles/qedis_server.dir
+/home/zihao/qedis/Qedis/build/QedisSvr/CMakeFiles/edit_cache.dir
+/home/zihao/qedis/Qedis/build/QedisSvr/CMakeFiles/rebuild_cache.dir
+/home/zihao/qedis/Qedis/build/courses/lab2/code1/CMakeFiles/server1.dir
+/home/zihao/qedis/Qedis/build/courses/lab2/code1/CMakeFiles/edit_cache.dir
+/home/zihao/qedis/Qedis/build/courses/lab2/code1/CMakeFiles/rebuild_cache.dir
+/home/zihao/qedis/Qedis/build/courses/lab2/code2/CMakeFiles/server2.dir
+/home/zihao/qedis/Qedis/build/courses/lab2/code2/CMakeFiles/edit_cache.dir
+/home/zihao/qedis/Qedis/build/courses/lab2/code2/CMakeFiles/rebuild_cache.dir

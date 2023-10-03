@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wall -std=c++0x -rdynamic CMakeFiles/qedis_server.dir/Qedis.cc.o -o ../../bin/qedis_server   -L../../leveldb  -Wl,-rpath,../../leveldb ../../bin/libqediscore.a ../../bin/libqbaselib.a -Wl,-Bstatic -lleveldb -Wl,-Bdynamic -lpthread -ldl -Wl,-Bstatic -lleveldb -Wl,-Bdynamic 

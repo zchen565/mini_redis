@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wall -std=c++0x -rdynamic CMakeFiles/server1.dir/Server1.cc.o -o server1  /home/zihao/qedis/bin/libqbaselib.a -lpthread 

@@ -1,0 +1,247 @@
+[
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/AsyncBuffer.cc.o -c /home/zihao/qedis/Qedis/QBase/AsyncBuffer.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/AsyncBuffer.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/ClientSocket.cc.o -c /home/zihao/qedis/Qedis/QBase/ClientSocket.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/ClientSocket.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/ConfigParser.cc.o -c /home/zihao/qedis/Qedis/QBase/ConfigParser.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/ConfigParser.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/EPoller.cc.o -c /home/zihao/qedis/Qedis/QBase/EPoller.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/EPoller.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/Kqueue.cc.o -c /home/zihao/qedis/Qedis/QBase/Kqueue.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/Kqueue.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/ListenSocket.cc.o -c /home/zihao/qedis/Qedis/QBase/ListenSocket.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/ListenSocket.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/NetThreadPool.cc.o -c /home/zihao/qedis/Qedis/QBase/NetThreadPool.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/NetThreadPool.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/Server.cc.o -c /home/zihao/qedis/Qedis/QBase/Server.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/Server.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/Socket.cc.o -c /home/zihao/qedis/Qedis/QBase/Socket.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/Socket.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/StreamSocket.cc.o -c /home/zihao/qedis/Qedis/QBase/StreamSocket.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/StreamSocket.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/TaskManager.cc.o -c /home/zihao/qedis/Qedis/QBase/TaskManager.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/TaskManager.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/Timer.cc.o -c /home/zihao/qedis/Qedis/QBase/Timer.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/Timer.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/UnboundedBuffer.cc.o -c /home/zihao/qedis/Qedis/QBase/UnboundedBuffer.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/UnboundedBuffer.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/Log/Logger.cc.o -c /home/zihao/qedis/Qedis/QBase/Log/Logger.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/Log/Logger.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/Log/MemoryFile.cc.o -c /home/zihao/qedis/Qedis/QBase/Log/MemoryFile.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/Log/MemoryFile.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -Wall -std=c++0x -o CMakeFiles/qbaselib.dir/Threads/ThreadPool.cc.o -c /home/zihao/qedis/Qedis/QBase/Threads/ThreadPool.cc",
+  "file": "/home/zihao/qedis/Qedis/QBase/Threads/ThreadPool.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/gcc -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -o CMakeFiles/qbaselib.dir/lzf/lzf_c.c.o -c /home/zihao/qedis/Qedis/QBase/lzf/lzf_c.c",
+  "file": "/home/zihao/qedis/Qedis/QBase/lzf/lzf_c.c"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QBase",
+  "command": "/usr/bin/gcc -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0  -g -o CMakeFiles/qbaselib.dir/lzf/lzf_d.c.o -c /home/zihao/qedis/Qedis/QBase/lzf/lzf_d.c",
+  "file": "/home/zihao/qedis/Qedis/QBase/lzf/lzf_d.c"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QAOF.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QAOF.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QAOF.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QClient.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QClient.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QClient.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QCommand.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QCommand.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QCommand.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QCommon.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QCommon.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QCommon.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QConfig.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QConfig.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QConfig.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QDB.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QDB.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QDB.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QGlobRegex.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QGlobRegex.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QGlobRegex.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QHash.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QHash.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QHash.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QHelper.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QHelper.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QHelper.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QKeyCommand.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QKeyCommand.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QKeyCommand.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QLeveldb.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QLeveldb.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QLeveldb.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QList.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QList.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QList.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QMigration.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QMigration.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QMigration.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QMulti.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QMulti.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QMulti.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QProtoParser.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QProtoParser.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QProtoParser.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QPubsub.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QPubsub.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QPubsub.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QReplication.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QReplication.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QReplication.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QServerCommand.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QServerCommand.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QServerCommand.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QSet.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QSet.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QSet.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QSlaveClient.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QSlaveClient.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QSlaveClient.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QSlowLog.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QSlowLog.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QSlowLog.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QSortedSet.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QSortedSet.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QSortedSet.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QStore.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QStore.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QStore.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -Wall -std=c++0x -o CMakeFiles/qediscore.dir/QString.cc.o -c /home/zihao/qedis/Qedis/QedisCore/QString.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/QString.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/gcc -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -o CMakeFiles/qediscore.dir/crc64.c.o -c /home/zihao/qedis/Qedis/QedisCore/crc64.c",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/crc64.c"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/gcc -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -o CMakeFiles/qediscore.dir/redisIntset.c.o -c /home/zihao/qedis/Qedis/QedisCore/redisIntset.c",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/redisIntset.c"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisCore",
+  "command": "/usr/bin/gcc -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis -I/home/zihao/qedis/Qedis/leveldb/include -g -o CMakeFiles/qediscore.dir/redisZipList.c.o -c /home/zihao/qedis/Qedis/QedisCore/redisZipList.c",
+  "file": "/home/zihao/qedis/Qedis/QedisCore/redisZipList.c"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/QedisSvr",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -I/home/zihao/qedis/Qedis/QedisCore -g -Wall -std=c++0x -o CMakeFiles/qedis_server.dir/Qedis.cc.o -c /home/zihao/qedis/Qedis/QedisSvr/Qedis.cc",
+  "file": "/home/zihao/qedis/Qedis/QedisSvr/Qedis.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/courses/lab2/code1",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -g -Wall -std=c++0x -o CMakeFiles/server1.dir/Server1.cc.o -c /home/zihao/qedis/Qedis/courses/lab2/code1/Server1.cc",
+  "file": "/home/zihao/qedis/Qedis/courses/lab2/code1/Server1.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/courses/lab2/code2",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -g -Wall -std=c++0x -o CMakeFiles/server2.dir/EchoSocket.cc.o -c /home/zihao/qedis/Qedis/courses/lab2/code2/EchoSocket.cc",
+  "file": "/home/zihao/qedis/Qedis/courses/lab2/code2/EchoSocket.cc"
+},
+{
+  "directory": "/home/zihao/qedis/Qedis/build/courses/lab2/code2",
+  "command": "/usr/bin/g++ -DQEDIS_CLUSTER=0 -DUSE_ZOOKEEPER=0 -I/home/zihao/qedis/Qedis/QBase -g -Wall -std=c++0x -o CMakeFiles/server2.dir/Server2.cc.o -c /home/zihao/qedis/Qedis/courses/lab2/code2/Server2.cc",
+  "file": "/home/zihao/qedis/Qedis/courses/lab2/code2/Server2.cc"
+}
+]

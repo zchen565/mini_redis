@@ -1,0 +1,10 @@
+2023-09-27[21:08:05.608][INF]:StreamSocket.cc:33 Init peer address (127.0.0.1:33096), local socket is 8
+2023-09-27[22:43:00.785][INF]:StreamSocket.cc:33 Init peer address (127.0.0.1:60766), local socket is 9
+2023-09-27[22:51:55.424][INF]:StreamSocket.cc:125 OnReadable failed, peer address (127.0.0.1:60766), local socket is 9
+2023-09-27[22:51:55.424][ERR]:StreamSocket.cc:204 OnError peer address (127.0.0.1:60766), local socket is 9
+2023-09-27[22:51:55.434][INF]:StreamSocket.cc:19 ~StreamSocket peer (127.0.0.1:60766)
+2023-09-27[22:51:55.434][DBG]:Socket.cc:65 CloseSocket 9
+2023-09-27[22:52:04.226][INF]:StreamSocket.cc:125 OnReadable failed, peer address (127.0.0.1:33096), local socket is 8
+2023-09-27[22:52:04.226][ERR]:StreamSocket.cc:204 OnError peer address (127.0.0.1:33096), local socket is 8
+2023-09-27[22:52:04.240][INF]:StreamSocket.cc:19 ~StreamSocket peer (127.0.0.1:33096)
+2023-09-27[22:52:04.240][DBG]:Socket.cc:65 CloseSocket 8
